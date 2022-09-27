@@ -1,3 +1,5 @@
+JSP/Servlet으로 기본적인 게시판 만들어보기
+
 Day 1
 1. sqlplus 대신 oracle sql developer 사용
 2. 새로운 db 사용자 생성, connect 및 resource 권한 부여
